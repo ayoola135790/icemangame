@@ -1,0 +1,4 @@
+﻿  StudentWorld.cpp
+C:\Users\Ayool\source\repos\IceMan(New)\IceMan\StudentWorld.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ayool\source\repos\IceMan(New)\IceMan\StudentWorld.cpp(416,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  IceMan.vcxproj -> C:\Users\Ayool\source\repos\IceMan(New)\Debug\IceMan.exe
